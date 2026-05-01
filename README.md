@@ -1,2 +1,0 @@
-# TechDay-Teste
-Teste
