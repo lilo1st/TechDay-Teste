@@ -28,6 +28,10 @@ O site apresenta informações sobre o evento, incluindo sua organização, púb
 
 O TechDay 2025 foi desenvolvido como um projeto de hotsite para aplicar conhecimentos de desenvolvimento Front-End para Web, utilizando HTML na estruturação e organização de uma página informativa. O projeto busca apresentar um evento tecnológico de maneira clara, organizada e acessível, proporcionando aos visitantes uma experiência de navegação intuitiva.
 
+### Contexto do desenvolvimento
+
+O TechDay 2025 foi desenvolvido experimentalmente como uma atividade prática de sala de aula, com o objetivo de explorar e aplicar conceitos de estruturação de páginas web utilizando HTML5.
+
 ---
 
 ## 🇺🇸 English (EN-US)
@@ -57,3 +61,7 @@ The website provides information about the event, including its organization, ta
 ### Project Objective
 
 TechDay 2025 was developed as an event landing page project to apply Front-End Web Development concepts, using HTML to structure and organize an informative website. The project aims to present a technology event in a clear, organized, and accessible way, providing visitors with an intuitive browsing experience.
+
+### Development Context
+
+TechDay 2025 was experimentally developed as a classroom activity, with the purpose of exploring and applying web page structuring concepts using HTML5.
